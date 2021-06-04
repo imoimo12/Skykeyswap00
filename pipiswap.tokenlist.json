@@ -1,0 +1,102 @@
+{
+  "name": "pippiswap",
+  "logoURI": "https://swap.pippi.finance/images/192x192_App_Icon.png",
+  "keywords": ["pippi", "default"],
+  "timestamp": "2020-11-23T01:40:34.305Z",
+   "tokens": [
+    {
+      "chainId": 128,
+      "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    {
+      "chainId": 128,
+      "address": "0xaaae746b5e55d14398879312660e9fde07fbc1dc",
+      "name": "Pippi Shrimp Token",
+      "symbol": "Pippi Shrimp Token",
+      "decimals": 18
+    },
+    {
+      "chainId": 128,
+      "address": "0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c",
+      "name": "MDX Token",
+      "symbol": "MDX",
+      "decimals": 18
+    },
+    {
+      "chainId": 128,
+      "address": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
+      "name": "Heco-Peg HUSD Token",
+      "symbol": "HUSD",
+      "decimals": 18
+    },
+    {
+      "chainId": 128,
+      "address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+      "name": "Heco-Peg HBTC Token",
+      "symbol": "HBTC",
+      "decimals": 18
+    },
+    {
+      "chainId": 128,
+      "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+      "name": "Heco-Peg USDTHECO Token",
+      "symbol": "USDT",
+      "decimals": 18
+    },
+    {
+      "chainId": 128,
+      "address": "0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3",
+      "name": "Heco-Peg HDOT Token",
+      "symbol": "HDOT1",
+      "decimals": 18
+    },
+    {
+      "chainId": 128,
+      "address": "0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4",
+      "name": ""Heco-Peg HLTC Token",
+      "symbol": "HLTC",
+      "decimals": 18
+    },
+     {
+      "chainId": 128,
+      "address": "0x1e6395E6B059fc97a4ddA925b6c5ebf19E05c69f",
+      "name": "CAN",
+      "symbol": "CAN",
+      "decimals": 18
+    },
+     {
+      "chainId": 128,
+      "address": "0x1E0aBaF926013fAdC7da19aD41665bb753639A94",
+      "name": "RDTK",
+      "symbol": "RDTK",
+      "decimals": 18
+    },
+     {
+      "chainId": 128,
+      "address": "0x40280e26a572745b1152a54d1d44f365daa51618",
+      "name": "dogecoin",
+      "symbol": "DOGE",
+      "decimals": 18
+    },
+     {
+      "chainId": 128,
+      "address": "0xdd86dd2dc0aca2a8f41a680fc1f88ec1b7fc9b09",
+      "name": "Heco-Peg SHIB Token",
+      "symbol": "SHIB",
+      "decimals": 18
+    },
+     {
+      "chainId": 128,
+      "address": "0x72a9fb3ea87925129ae05432a4d2be4d0a43dff9",
+      "name": "Kiwi Money",
+      "symbol": "KWI",
+      "decimals": 18
+    
+
+    }
+  ],
+  "version": { "major": 0, "minor": 0, "patch": 0 }
+}
